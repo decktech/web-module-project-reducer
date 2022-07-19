@@ -101,7 +101,7 @@ export const initialState = {
 - [ ] [Here is an example](https://freshman.tech/calculator/) of a (non-reducer) approach to building an javascript calculator. Feel free to make a new branch and use the basic ideas in the post to build a new version of the calculator.
 
 
-### Submission Format
+### Submission Format 
 - [ ] If this is your first time connecting a submission, authorize your github account within the codegrade assignment.
 - [ ] Connect your fork to Codegrade using the "Connect Git" button.
 - [ ] Find your newly created fork from the list and push your work to main.
